@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "SsAE/nWuscx8uTeb5URfQzE442Su0wQ60H3YEFadyW6u19+wzsP+DGeaYQKBZW6YUVI57VdhVs4OukpzhXms7w==",
+  "success": true,
+  "projectFilePath": "C:\\git\\GitHub\\HydrateBlob\\HydrateArchiveBlob\\WDN.Blob.ArchiveManagement\\WDN.Blob.ArchiveManagement.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kemack\\.nuget\\packages\\azure.core\\1.2.2\\azure.core.1.2.2.nupkg.sha512",
+    "C:\\Users\\kemack\\.nuget\\packages\\azure.storage.blobs\\12.4.4\\azure.storage.blobs.12.4.4.nupkg.sha512",
+    "C:\\Users\\kemack\\.nuget\\packages\\azure.storage.common\\12.4.3\\azure.storage.common.12.4.3.nupkg.sha512",
+    "C:\\Users\\kemack\\.nuget\\packages\\azure.storage.queues\\12.3.2\\azure.storage.queues.12.3.2.nupkg.sha512",
+    "C:\\Users\\kemack\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
+    "C:\\Users\\kemack\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\kemack\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\kemack\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.6.0\\system.diagnostics.diagnosticsource.4.6.0.nupkg.sha512",
+    "C:\\Users\\kemack\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\kemack\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\kemack\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512"
+  ],
+  "logs": []
+}

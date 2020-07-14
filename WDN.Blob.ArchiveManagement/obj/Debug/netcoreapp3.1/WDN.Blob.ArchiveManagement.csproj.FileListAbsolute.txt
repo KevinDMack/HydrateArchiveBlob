@@ -1,0 +1,5 @@
+C:\git\BlobRehydration\WDN.ArchiveBlob\WDN.Blob.ArchiveManagement\WDN.Blob.ArchiveManagement\bin\Debug\netcoreapp3.1\WDN.Blob.ArchiveManagement.deps.json
+C:\git\BlobRehydration\WDN.ArchiveBlob\WDN.Blob.ArchiveManagement\WDN.Blob.ArchiveManagement\bin\Debug\netcoreapp3.1\WDN.Blob.ArchiveManagement.dll
+C:\git\BlobRehydration\WDN.ArchiveBlob\WDN.Blob.ArchiveManagement\WDN.Blob.ArchiveManagement\obj\Debug\netcoreapp3.1\WDN.Blob.ArchiveManagement.csprojAssemblyReference.cache
+C:\git\BlobRehydration\WDN.ArchiveBlob\WDN.Blob.ArchiveManagement\WDN.Blob.ArchiveManagement\obj\Debug\netcoreapp3.1\WDN.Blob.ArchiveManagement.AssemblyInfoInputs.cache
+C:\git\BlobRehydration\WDN.ArchiveBlob\WDN.Blob.ArchiveManagement\WDN.Blob.ArchiveManagement\obj\Debug\netcoreapp3.1\WDN.Blob.ArchiveManagement.AssemblyInfo.cs

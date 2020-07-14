@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WDN.Blob.ArchiveManagement", "WDN.Blob.ArchiveManagement\WDN.Blob.ArchiveManagement.csproj", "{3BD0144D-AC68-4AB2-ADEE-B0293CF7804D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BD0144D-AC68-4AB2-ADEE-B0293CF7804D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BD0144D-AC68-4AB2-ADEE-B0293CF7804D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BD0144D-AC68-4AB2-ADEE-B0293CF7804D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BD0144D-AC68-4AB2-ADEE-B0293CF7804D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9239BC61-A529-4962-B1D6-E8AC0721A3CD}
+	EndGlobalSection
+EndGlobal
